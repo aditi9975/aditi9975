@@ -43,57 +43,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎮 Interactive Quiz Generator</h3>
-        <div align="center">
-          <a href="https://github.com/aditi9975/Quize-app" target="_blank">
-            <img src="https://img.shields.io/badge/View_Project-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Quiz App">
-          </a>
-        </div>
-        <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-        <p>Dynamic quiz platform with real-time scoring and interactive UI</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎬 Movie Booking System</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Coming_Soon-6B7280?style=for-the-badge&logoColor=white" alt="Movie Booking">
-        </div>
-        <p><strong>Tech Stack:</strong> MERN Stack</p>
-        <p>Complete booking solution with seat selection and payment integration</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏫 School Management System</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/In_Development-F59E0B?style=for-the-badge&logoColor=white" alt="School Management">
-        </div>
-        <p><strong>Tech Stack:</strong> React, Express, MySQL</p>
-        <p>Comprehensive admin panel for student and faculty management</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">💼 Portfolio Website</h3>
-        <div align="center">
-          <a href="https://aditi-bandewar.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
-          </a>
-        </div>
-        <p><strong>Tech Stack:</strong> React, GSAP, Tailwind CSS</p>
-        <p>Responsive portfolio showcasing projects with smooth animations</p>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
 ## 🛠️ Technology Arsenal
 
 <div align="center">
